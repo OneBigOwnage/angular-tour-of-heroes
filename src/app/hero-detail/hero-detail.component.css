@@ -1,0 +1,9 @@
+.back-btn {
+    margin-top: 50px;
+}
+
+.button-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
